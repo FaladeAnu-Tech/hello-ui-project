@@ -1,0 +1,22 @@
+body {
+    background-color: #0f172a; /* dark blue */
+    color:white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    color: #38bdf8; /* light blue */
+}
+
+button {
+    background-color: #FF6B6B; /* makes it red */
+} 
+    color: #0f172a;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
